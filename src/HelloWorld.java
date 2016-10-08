@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("test for github");
 		System.out.println("edit 1.");
 		System.out.println("edit 2.");
+		System.out.println("edit 3.");
 
 	}
 
