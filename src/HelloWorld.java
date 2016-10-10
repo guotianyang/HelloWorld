@@ -6,7 +6,7 @@ public class HelloWorld {
 		System.out.println("edit 1.");
 		System.out.println("edit 2.");
 		System.out.println("edit 3.");
-		System.out.println("edit 4 jenkins test");
+		System.out.println("edit 4 jenkins tes);
 
 	}
 
