@@ -9,7 +9,7 @@ public class HelloWorld {
 		System.out.println("edit 4 jenkins tes");
 		System.out.println(Math.round(1.45));
 		System.out.println(Math.round(1.95));
-		System.out.println(Math.round(1.50));
+		System.out.println(Math.round(1.50))
 
 	}
 
