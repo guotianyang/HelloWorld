@@ -1,0 +1,3 @@
+interface Rideable {
+	String getGait();
+}
